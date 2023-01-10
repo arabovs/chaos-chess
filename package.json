@@ -1,0 +1,19 @@
+{
+  "name": "mui-chess",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/arabovs/mui-chess.git",
+  "author": "arabovs <arabov.simeon1990@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/material": "^5.11.4",
+    "chess.js": "^1.0.0-alpha.0",
+    "gatsby": "^5.3.3",
+    "prettier": "^2.8.2",
+    "react": "^18.2.0",
+    "react-chessboard": "^2.0.7",
+    "react-dom": "^18.2.0"
+  }
+}
